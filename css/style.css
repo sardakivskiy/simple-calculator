@@ -1,0 +1,23 @@
+body {
+    padding: 40px;
+}
+.js-input1 {
+    border: solid 1px #000;
+}
+.js-input2 {
+    border: solid 1px #000;
+}
+.js-result {
+    background: #f0f;
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 40px; 
+    transition: background 0.3s ease 0s;
+}
+.js-result:hover {
+    background: rgb(157, 72, 157);
+    transition: background 0.3s ease 0s;
+}
+.js-output {
+
+}
